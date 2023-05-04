@@ -1,2 +1,2 @@
-# RecipeHub
-this rep contain the source code and documentation for RecipeHub.
+# group
+this rep contain the source code and documentation for group.
